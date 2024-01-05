@@ -11,4 +11,8 @@ classify garbage by mobilenetV2/api based on ali cloud
 
 ![image](https://github.com/SDIM2023Fall-Group3/Auto-Garbage-Classification/blob/main/img/ke.jpg)
 
-整机上半部分长这样，大概能想象出来工作流程吧（笑）
+整机上半部分长这样，大概能想象出来工作流程吧（笑）。
+
+总之基本就这样，第一次传github可能写的有问题，但是无所谓。
+
+以后看心情更新（基本不会）。

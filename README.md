@@ -12,5 +12,3 @@ classify garbage by mobilenetV2/api based on ali cloud
 整体流程为遮挡激光并取消遮挡被视为垃圾投入，期间根据光敏模块信号控制led灯带。投入后舵机控制关门，接着摄像头拍照，在树莓派中进行图像识别（识别时间3s以内，除非网不好），返回信号，电机控制翻转平台将垃圾导入垃圾桶。流程结束舵机控制开门，如果灯带为开则关闭灯带。
 
 ![image](https://github.com/SDIM2023Fall-Group3/Auto-Garbage-Classification/blob/main/img/ke.jpg)
-
-整机上半部分长这样，大概能想象出来工作流程吧（笑）。
